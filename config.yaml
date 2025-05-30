@@ -1,0 +1,14 @@
+data_dir: Dice_Game_Datasets
+
+files:
+  - user
+  - user_registration
+  - user_play_session
+  - user_plan
+  - user_payment_detail
+  - plan
+  - plan_payment_frequency
+  - channel_code
+  - status_code
+
+output_dir: output/csvs
